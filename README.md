@@ -118,4 +118,4 @@ Contribution would be of great help create a nice list
 
 **Active Contributors**
 
-[![Mert Pehlivan](https://avatars3.githubusercontent.com/u/41541?v=3&s=72)](https://github.com/PehlivanMert)
+[![Mert Pehlivan](https://avatars.githubusercontent.com/u/133760259?v=4)](https://github.com/PehlivanMert)
